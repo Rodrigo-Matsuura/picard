@@ -287,7 +287,7 @@ msgstr "Italiano"
 
 #: picard/const/languages.py:57
 msgid "Norwegian Bokmal"
-msgstr ""
+msgstr "Bokmal norueguês"
 
 #: picard/const/languages.py:59
 msgid "Dutch"
@@ -397,31 +397,31 @@ msgstr "Ver lançamento no MusicBrainz"
 
 #: picard/ui/coverartbox.py:228
 msgid "Common images on all tracks"
-msgstr ""
+msgstr "Imagens comuns em todas as faixas"
 
 #: picard/ui/coverartbox.py:230
 msgid "Tracks contain different images"
-msgstr ""
+msgstr "As faixas contêm imagens diferentes"
 
 #: picard/ui/coverartbox.py:272
 msgid "Show more details"
-msgstr ""
+msgstr "Mostrar mais detalhes"
 
 #: picard/ui/coverartbox.py:309
 msgid "New Cover Art"
-msgstr ""
+msgstr "Nova Capa de Arte"
 
 #: picard/ui/coverartbox.py:310
 msgid "Original Cover Art"
-msgstr ""
+msgstr "Capa de Arte original"
 
 #: picard/ui/coverartbox.py:435
 msgid "Show more details..."
-msgstr ""
+msgstr "Mostrar mais detalhes..."
 
 #: picard/ui/coverartbox.py:441
 msgid "Keep original cover art"
-msgstr ""
+msgstr "Manter capa de arte original"
 
 #: picard/ui/coverartbox.py:450
 msgid "Replace front cover art on drop"
@@ -873,7 +873,7 @@ msgstr "&Capa"
 
 #: picard/ui/mainwindow.py:409
 msgid "&Actions"
-msgstr ""
+msgstr "&Ações"
 
 #: picard/ui/mainwindow.py:415 picard/ui/mainwindow.py:628
 #: picard/ui/searchdialog.py:71
@@ -904,7 +904,7 @@ msgstr "Usar impressões digitais de áudio AcoustID para identificar os arquivo
 
 #: picard/ui/mainwindow.py:428
 msgid "Identify the file using its AcoustID audio fingerprint"
-msgstr ""
+msgstr "Identifique o arquivo usando sua impressão digital de áudio AcoustID"
 
 #: picard/ui/mainwindow.py:430
 msgid "Ctrl+Y"
@@ -1281,7 +1281,7 @@ msgstr "OK"
 
 #: picard/ui/ui_cdlookup.py:56
 msgid "Lookup manually"
-msgstr "    Procurar manualmente    "
+msgstr "Procurar manualmente"
 
 #: picard/ui/ui_cdlookup.py:57
 msgid "Cancel"
